@@ -1,4 +1,6 @@
 # Noshko
 Instagram 
-# username
-# password 
+#Username
+#Password
+Name******
+Passwords ******
