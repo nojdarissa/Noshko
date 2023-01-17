@@ -2,5 +2,5 @@
 Instagram 
 #Username
 #Password
-Name******
-Passwords ******
+Name
+Passwords 
